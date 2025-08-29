@@ -2,7 +2,8 @@
  * Autor: Santiago Maldonado
  * Fecha de Creación: 29/08/2025
  * Última Modificación: 29/08/2025
- * Descripción: Clase que modela a un miembro del gimnasio.
+ * Descripción: Clase que modela a un miembro del gimnasio,
+ * encapsulando su información personal y de entrenamiento.
  */
 
 public class Miembro {
