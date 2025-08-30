@@ -20,7 +20,7 @@
         this.alumnosACargo = new ArrayList<>();
     }
 
-    public void agregarMiembro(Miembro miembro) {
+    public void agregarAlumno(Miembro miembro) {
         alumnosACargo.add(miembro);
     }
 
