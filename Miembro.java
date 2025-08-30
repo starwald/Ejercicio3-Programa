@@ -33,11 +33,11 @@ public class Miembro {
         return nombre;
     }
 
-    public String getEntrenadorAsignado(){
+    public Entrenador getEntrenadorAsignado(){
         return entrenadorAsignado;
     }
 
-    public String getRutinaAsignada(){
+    public Rutina getRutinaAsignada(){
         return rutinaAsignada;
     }
 
