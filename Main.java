@@ -48,7 +48,7 @@ public class Main {
         System.out.println("1. Registrar Nuevo Miembro");
         System.out.println("2. Registrar Nuevo Entrenador");
         System.out.println("3. Crear Nueva Rutina");
-        System.out.println("4. Asignar Entrenamient a Miembro");
+        System.out.println("4. Asignar Entrenamiento a Miembro");
         System.out.println("5. Ver Listas Actuales");
         System.out.println("6. Mostrar Reportes");
         System.out.println("7. Salir");
