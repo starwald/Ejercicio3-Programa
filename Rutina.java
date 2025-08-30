@@ -14,7 +14,7 @@ public class Rutina {
     public Rutina(String nombre, String descripcion) {
         this.nombre = nombre;
         this.descripcion = descripcion;
-        this.practicantes = new ArrayList<>()
+        this.practicantes = new ArrayList<>();
     }
 
     public void agregarPracticante(Miembro miembro) {
